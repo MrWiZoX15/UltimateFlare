@@ -1,2 +1,3 @@
 # UltimateFlare
- HCF 1.7.10 Plugin
+ * Made by ImJudassss
+   * If you use this Plugin in your Server, Thanks to give Credits here :)
