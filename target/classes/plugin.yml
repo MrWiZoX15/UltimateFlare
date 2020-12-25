@@ -1,0 +1,6 @@
+name: UltimateFlare
+version: 1.0-SNAPSHOT
+main: net.imjudass.flare.Main
+author: [ImJudass]
+commands:
+  flaregive:

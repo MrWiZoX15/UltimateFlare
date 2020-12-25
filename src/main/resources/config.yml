@@ -1,0 +1,45 @@
+Messages:
+  name-item: "&dUltimate Flare"
+  command-use: "&c» /flaregive <player> <number>"
+  no-permission: "&cError: No permission"
+  succes: "§aSucces !"
+Setup:
+  items-in-chest: 3
+  permission: "flaregive.use"
+Items:
+  IRON_INGOT:
+    Name: "Irqson"
+    Amount: 64
+    Lore:
+      - "Hey"
+      - "Garage"
+  REDSTONE:
+    Name: "qsdqs"
+    Amount: 64
+    Lore:
+      - "qsdqsd"
+      - "Garage"
+  DIAMOND:
+    Name: "qqqq"
+    Amount: 64
+    Lore:
+      - "Hey"
+      - "Garage"
+  DIAMOND_SWORD:
+    Name: "sdqsdsqdsqdsd"
+    Amount: 64
+    Lore:
+      - "Hey"
+      - "Garage"
+  GOLDEN_APPLE:
+    Name: "Iron"
+    Amount: 64
+    Lore:
+      - "Hey"
+      - "Garage"
+  APPLE:
+    Name: "dsqdsqdsqd"
+    Amount: 64
+    Lore:
+      - "Hey"
+      - "Garage"
